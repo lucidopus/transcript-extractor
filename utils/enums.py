@@ -1,0 +1,1 @@
+# Enums can be defined here if needed
